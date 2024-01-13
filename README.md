@@ -2,3 +2,4 @@
 
 # Spryker Mini Framework
 
+# miniframework
